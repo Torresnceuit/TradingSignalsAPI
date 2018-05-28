@@ -268,6 +268,17 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Frontend\3rdpartylicenses.txt" />
+    <Content Include="Frontend\assets\FFTradingSignals.png" />
+    <Content Include="Frontend\assets\icons\AutoBot.ico" />
+    <Content Include="Frontend\assets\icons\down.png" />
+    <Content Include="Frontend\assets\icons\up.png" />
+    <Content Include="Frontend\favicon.ico" />
+    <Content Include="Frontend\index.html" />
+    <Content Include="Frontend\inline.a00eb6215f9f2965f083.bundle.js" />
+    <Content Include="Frontend\main.efdf2dd89c20c20cf694.bundle.js" />
+    <Content Include="Frontend\polyfills.fa355316cdb9976e9e87.bundle.js" />
+    <Content Include="Frontend\styles.9c0ad738f18adc3d19ed.bundle.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -362,7 +373,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>58487</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://127.0.0.1:80/</IISUrl>
+          <IISUrl>http://localhost:58487/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
