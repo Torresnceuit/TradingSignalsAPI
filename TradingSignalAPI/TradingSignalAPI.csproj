@@ -275,8 +275,8 @@
     <Content Include="Frontend\assets\icons\up.png" />
     <Content Include="Frontend\favicon.ico" />
     <Content Include="Frontend\index.html" />
-    <Content Include="Frontend\inline.a00eb6215f9f2965f083.bundle.js" />
-    <Content Include="Frontend\main.efdf2dd89c20c20cf694.bundle.js" />
+    <Content Include="Frontend\inline.26672d9011989fb64d43.bundle.js" />
+    <Content Include="Frontend\main.eb745aa68f2310ae538a.bundle.js" />
     <Content Include="Frontend\polyfills.fa355316cdb9976e9e87.bundle.js" />
     <Content Include="Frontend\styles.9c0ad738f18adc3d19ed.bundle.css" />
     <Content Include="Global.asax" />
